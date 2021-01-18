@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#By Lucas sacb
+#By Lucas sacb @lucas_sacb
 
 from selenium import webdriver
 from chatterbot import ChatBot
@@ -17,11 +17,11 @@ from selenium.webdriver.common.keys import Keys
 from webdriver_manager.chrome import ChromeDriverManager
 
 
-#Create a new chat bot named Lica
+#Create um noco chatbot como o nome de Lica
 chatbot = ChatBot('Lica')
-# Create a new trainer for the chatbot
+# cria um novo trainer para o chatbot
 trainer = ChatterBotCorpusTrainer(chatbot)
-#Train the chatbot based on the english corpus
+#Usa uma arquivo pré existente para buscar respostas
 trainer.train('chatterbot.corpus.portuguese')
 
 class zapbot:
