@@ -76,7 +76,7 @@ class zapbot:
 
 
 bot = zapbot()
-bot.abre_conversa( "CCR Hackathon" )
+bot.abre_conversa( "Gruo Test" )
 bot.envia_msg( "Lica: Ola, eu sou a lica." )
 bot.envia_msg( "Lica: Para conversarmos digite: /conversar" )
 msg = ""
