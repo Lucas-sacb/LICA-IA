@@ -40,8 +40,8 @@ Follow these instructions to get a local copy up and running.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/LICA_REPOSITORY.git](https://github.com/YOUR_USERNAME/LICA_REPOSITORY.git)
-    cd LICA_REPOSITORY
+    git clone [https://github.com/Lucas-sacb/LICA-IA.git](https://github.com/Lucas-sacb/LICA-IA.git)
+    cd LICA-IA
     ```
 
 2.  **Create a virtual environment (recommended):**
