@@ -125,11 +125,6 @@ If the bot stops working, you will likely need to update these selectors.
     caixa_de_texto = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, 'div[data-testid="new-selector-you-found"]')))
     ```
 
-## License
-
-This project is distributed under the MIT License. See the `LICENSE` file for more information.
-
 ## Acknowledgments
 
 -   Original concept and code by **Lucas sacb** (`@lucas_sacb`).
--   Code updated and refactored by the **Python AI Assistant**.
